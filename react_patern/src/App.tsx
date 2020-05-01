@@ -1,11 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import {RenderProps } from './RenderProps/RenderProps';
+import { FunctionAsChild } from './FunctionAsChild/FunctionAsChild';
+import { Hoc } from './hoc/Hoc';
 
 function App() {
   return (
     <div className="App">
-      Start
+      <RenderProps/>
+      <FunctionAsChild />
+      <Hoc />
     </div>
   );
 }
