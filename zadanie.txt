@@ -1,0 +1,3 @@
+Zadanie:
+
+2 Frmularze 1 logwania (emaial i hasło) , 2 rejestracji checkbox, email, password
